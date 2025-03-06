@@ -6,7 +6,7 @@ import App from "./App";
 // import Counter from "./components/Counter";
 // import ProductFilter from "./components/ProductFilter";
 // import Toggle from "./components/Toggle";
-import UserTable from "./components/UserTable";
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
